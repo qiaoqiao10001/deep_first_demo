@@ -4,6 +4,7 @@
     <nuxt-link to="/home">home</nuxt-link>
     <nuxt-link to="/order">orders</nuxt-link>
     <nuxt-link to="/goods_list">goodslist</nuxt-link>
+    <nuxt-link to="/users">用户</nuxt-link>
 
     <nuxt />
 
